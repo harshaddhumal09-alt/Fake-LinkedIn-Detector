@@ -1,0 +1,5 @@
+connections,skills,experience,recommendations,posts,profile_completion,label
+500,20,3,10,50,95,Genuine
+300,15,2,5,20,80,Genuine
+10,1,0,0,0,20,Fake
+5,0,0,0,0,10,Fake
